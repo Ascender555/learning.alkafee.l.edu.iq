@@ -1,0 +1,628 @@
+Uri: https://fonts.googleapis.com/css?family=Roboto:300,400,500,700
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:300,400,500,700);@import url(https://fonts.googleapis.com/earlyaccess/notokufiarabic.css);.dx-validationsummary-item-content{border-bottom:1px dashed;display:inline-block;line-height:normal}@-webkit-keyframes dx-valid-badge-frames{0%25{opacity:0;-webkit-transform:scale(.1);transform:scale(.1)}to{opacity:1;-webkit-transform:scale(1);transform:scale(1)}}@keyframes dx-valid-badge-frames{0%25{opacity:0;-webkit-transform:scale(.1);transform:scale(.1)}to{opacity:1;-webkit-transform:scale(1);transform:scale(1)}}@font-face{font-family:RobotoFallback;font-style:normal;font-weight:300;src:local("Roboto Light"),local("Roboto-Light"),url(../fonts/Roboto-300.d26871e8.woff2) format("woff2"),url(../fonts/Roboto-300.c73eb1ce.woff) format("woff"),url(../fonts/Roboto-300.fc84e998.ttf) format("truetype")}@font-face{font-family:RobotoFallback;font-style:normal;font-weight:400;src:local("Roboto"),local("Roboto-Regular"),url(../fonts/Roboto-400.73f0a88b.woff2) format("woff2"),url(../fonts/Roboto-400.35b07eb2.woff) format("woff"),url(../fonts/Roboto-400.3e1af3ef.ttf) format("truetype")}@font-face{font-family:RobotoFallback;font-style:normal;font-weight:500;src:local("Roboto Medium"),local("Roboto-Medium"),url(../fonts/Roboto-500.90d16760.woff2) format("woff2"),url(../fonts/Roboto-500.1d659482.woff) format("woff"),url(../fonts/Roboto-500.d0884059.ttf) format("truetype")}@font-face{font-family:RobotoFallback;font-style:normal;font-weight:700;src:local("Roboto Bold"),local("Roboto-Bold"),url(../fonts/Roboto-700.b52fac2b.woff2) format("woff2"),url(../fonts/Roboto-700.50d75e48.woff) format("woff"),url(../fonts/Roboto-700.ee7b96fa.ttf) format("truetype")}.dx-theme-material-typography{background-color:
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/earlyaccess/notokufiarabic.css
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\earlyaccess\notokufiarabic.css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/notokufiarabic/v21/CSRp4ydQnPyaDxEXLFF6LZVLKrodhu8t57o1kDc5Wh4x37bIlrA.ttf
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\s\notokufiarabic\v21\CSRp4ydQnPyaDxEXLFF6LZVLKrodhu8t57o1kDc5Wh4x37bIlrA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notokufiarabic/v21/CSRp4ydQnPyaDxEXLFF6LZVLKrodhu8t57o1kDc5Wh5d37bIlrA.ttf
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\s\notokufiarabic\v21\CSRp4ydQnPyaDxEXLFF6LZVLKrodhu8t57o1kDc5Wh5d37bIlrA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notokufiarabic/v21/CSRp4ydQnPyaDxEXLFF6LZVLKrodhu8t57o1kDc5Wh5v37bIlrA.ttf
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\s\notokufiarabic\v21\CSRp4ydQnPyaDxEXLFF6LZVLKrodhu8t57o1kDc5Wh5v37bIlrA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notokufiarabic/v21/CSRp4ydQnPyaDxEXLFF6LZVLKrodhu8t57o1kDc5Wh5v3rbIlrA.ttf
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\s\notokufiarabic\v21\CSRp4ydQnPyaDxEXLFF6LZVLKrodhu8t57o1kDc5Wh5v3rbIlrA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notokufiarabic/v21/CSRp4ydQnPyaDxEXLFF6LZVLKrodhu8t57o1kDc5Wh6I2LbIlrA.ttf
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\s\notokufiarabic\v21\CSRp4ydQnPyaDxEXLFF6LZVLKrodhu8t57o1kDc5Wh6I2LbIlrA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notokufiarabic/v21/CSRp4ydQnPyaDxEXLFF6LZVLKrodhu8t57o1kDc5Wh6x2LbIlrA.ttf
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\s\notokufiarabic\v21\CSRp4ydQnPyaDxEXLFF6LZVLKrodhu8t57o1kDc5Wh6x2LbIlrA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notokufiarabic/v21/CSRp4ydQnPyaDxEXLFF6LZVLKrodhu8t57o1kDc5Wh7G2LbIlrA.ttf
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\s\notokufiarabic\v21\CSRp4ydQnPyaDxEXLFF6LZVLKrodhu8t57o1kDc5Wh7G2LbIlrA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notokufiarabic/v21/CSRp4ydQnPyaDxEXLFF6LZVLKrodhu8t57o1kDc5Wh7v2LbIlrA.ttf
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\s\notokufiarabic\v21\CSRp4ydQnPyaDxEXLFF6LZVLKrodhu8t57o1kDc5Wh7v2LbIlrA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notokufiarabic/v21/CSRp4ydQnPyaDxEXLFF6LZVLKrodhu8t57o1kDc5Wh7v37bIlrA.ttf
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\s\notokufiarabic\v21\CSRp4ydQnPyaDxEXLFF6LZVLKrodhu8t57o1kDc5Wh7v37bIlrA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://learning.alkafeel.edu.iq/
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\index.htm
+Content Type: text/html
+
+Uri: https://learning.alkafeel.edu.iq/css/app.d5f19e55.css
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\css\app.d5f19e55.css
+Content Type: text/css
+
+Uri: https://learning.alkafeel.edu.iq/css/chunk-099b7a24.3b4c469e.css
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\css\chunk-099b7a24.3b4c469e.css
+Content Type: text/css
+
+Uri: https://learning.alkafeel.edu.iq/css/chunk-259ab270.bffa478f.css
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\css\chunk-259ab270.bffa478f.css
+Content Type: text/css
+
+Uri: https://learning.alkafeel.edu.iq/css/chunk-2d0492b2.5f38a64f.css
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\css\chunk-2d0492b2.5f38a64f.css
+Content Type: text/css
+
+Uri: https://learning.alkafeel.edu.iq/css/chunk-2f914ad4.07e99984.css
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\css\chunk-2f914ad4.07e99984.css
+Content Type: text/css
+
+Uri: https://learning.alkafeel.edu.iq/css/chunk-30f567fa.457b251d.css
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\css\chunk-30f567fa.457b251d.css
+Content Type: text/css
+
+Uri: https://learning.alkafeel.edu.iq/css/chunk-393cb9ed.d3fe0d40.css
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\css\chunk-393cb9ed.d3fe0d40.css
+Content Type: text/css
+
+Uri: https://learning.alkafeel.edu.iq/css/chunk-39a16338.6619286c.css
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\css\chunk-39a16338.6619286c.css
+Content Type: text/css
+
+Uri: https://learning.alkafeel.edu.iq/css/chunk-3dabe2c4.7c31ea36.css
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\css\chunk-3dabe2c4.7c31ea36.css
+Content Type: text/css
+
+Uri: https://learning.alkafeel.edu.iq/css/chunk-42e52a84.f4f2c1ce.css
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\css\chunk-42e52a84.f4f2c1ce.css
+Content Type: text/css
+
+Uri: https://learning.alkafeel.edu.iq/css/chunk-453f82e6.8a8779db.css
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\css\chunk-453f82e6.8a8779db.css
+Content Type: text/css
+
+Uri: https://learning.alkafeel.edu.iq/css/chunk-4691da7a.5f18ae4f.css
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\css\chunk-4691da7a.5f18ae4f.css
+Content Type: text/css
+
+Uri: https://learning.alkafeel.edu.iq/css/chunk-4db256e1.0dd634ca.css
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\css\chunk-4db256e1.0dd634ca.css
+Content Type: text/css
+
+Uri: https://learning.alkafeel.edu.iq/css/chunk-4e0d7782.0dd634ca.css
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\css\chunk-4e0d7782.0dd634ca.css
+Content Type: text/css
+
+Uri: https://learning.alkafeel.edu.iq/css/chunk-591afcb3.bac77db5.css
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\css\chunk-591afcb3.bac77db5.css
+Content Type: text/css
+
+Uri: https://learning.alkafeel.edu.iq/css/chunk-62e36ab5.ec805db5.css
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\css\chunk-62e36ab5.ec805db5.css
+Content Type: text/css
+
+Uri: https://learning.alkafeel.edu.iq/css/chunk-6509fcda.15b59ebe.css
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\css\chunk-6509fcda.15b59ebe.css
+Content Type: text/css
+
+Uri: https://learning.alkafeel.edu.iq/css/chunk-6aebc937.51d3352d.css
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\css\chunk-6aebc937.51d3352d.css
+Content Type: text/css
+
+Uri: https://learning.alkafeel.edu.iq/css/chunk-6e7f211a.99597fdc.css
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\css\chunk-6e7f211a.99597fdc.css
+Content Type: text/css
+
+Uri: https://learning.alkafeel.edu.iq/css/chunk-7158feb9.ac3162ad.css
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\css\chunk-7158feb9.ac3162ad.css
+Content Type: text/css
+
+Uri: https://learning.alkafeel.edu.iq/css/chunk-7c47d745.478d8829.css
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\css\chunk-7c47d745.478d8829.css
+Content Type: text/css
+
+Uri: https://learning.alkafeel.edu.iq/css/chunk-7df87975.1d2aeeba.css
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\css\chunk-7df87975.1d2aeeba.css
+Content Type: text/css
+
+Uri: https://learning.alkafeel.edu.iq/css/chunk-998132a2.e7d8c1e0.css
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\css\chunk-998132a2.e7d8c1e0.css
+Content Type: text/css
+
+Uri: https://learning.alkafeel.edu.iq/css/chunk-a93b07e6.84fed677.css
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\css\chunk-a93b07e6.84fed677.css
+Content Type: text/css
+
+Uri: https://learning.alkafeel.edu.iq/css/chunk-abf86e86.f6a90d75.css
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\css\chunk-abf86e86.f6a90d75.css
+Content Type: text/css
+
+Uri: https://learning.alkafeel.edu.iq/css/chunk-bd68a018.2d52ccdd.css
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\css\chunk-bd68a018.2d52ccdd.css
+Content Type: text/css
+
+Uri: https://learning.alkafeel.edu.iq/css/chunk-bfb64778.11a62307.css
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\css\chunk-bfb64778.11a62307.css
+Content Type: text/css
+
+Uri: https://learning.alkafeel.edu.iq/css/chunk-c26d6344.088c958a.css
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\css\chunk-c26d6344.088c958a.css
+Content Type: text/css
+
+Uri: https://learning.alkafeel.edu.iq/css/chunk-d094b178.07e99984.css
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\css\chunk-d094b178.07e99984.css
+Content Type: text/css
+
+Uri: https://learning.alkafeel.edu.iq/css/chunk-d1f9bf76.8471f18b.css
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\css\chunk-d1f9bf76.8471f18b.css
+Content Type: text/css
+
+Uri: https://learning.alkafeel.edu.iq/css/chunk-de5f1d0a.8563b29d.css
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\css\chunk-de5f1d0a.8563b29d.css
+Content Type: text/css
+
+Uri: https://learning.alkafeel.edu.iq/css/chunk-vendors.b05369ac.css
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\css\chunk-vendors.b05369ac.css
+Content Type: text/css
+
+Uri: https://learning.alkafeel.edu.iq/fonts/dxiconsmaterial.03b7675d.woff
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\fonts\dxiconsmaterial.03b7675d.woff
+Content Type: font/x-woff
+
+Uri: https://learning.alkafeel.edu.iq/fonts/dxiconsmaterial.3b5eba81.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\fonts\dxiconsmaterial.3b5eba81.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/fonts/dxiconsmaterial.dc2bcb9e.ttf
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\fonts\dxiconsmaterial.dc2bcb9e.ttf
+Content Type: application/octet-stream
+
+Uri: https://learning.alkafeel.edu.iq/fonts/Roboto-300.c73eb1ce.woff
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\fonts\Roboto-300.c73eb1ce.woff
+Content Type: font/x-woff
+
+Uri: https://learning.alkafeel.edu.iq/fonts/Roboto-300.d26871e8.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\fonts\Roboto-300.d26871e8.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/fonts/Roboto-300.fc84e998.ttf
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\fonts\Roboto-300.fc84e998.ttf
+Content Type: application/octet-stream
+
+Uri: https://learning.alkafeel.edu.iq/fonts/Roboto-400.35b07eb2.woff
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\fonts\Roboto-400.35b07eb2.woff
+Content Type: font/x-woff
+
+Uri: https://learning.alkafeel.edu.iq/fonts/Roboto-400.3e1af3ef.ttf
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\fonts\Roboto-400.3e1af3ef.ttf
+Content Type: application/octet-stream
+
+Uri: https://learning.alkafeel.edu.iq/fonts/Roboto-400.73f0a88b.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\fonts\Roboto-400.73f0a88b.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/fonts/Roboto-500.1d659482.woff
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\fonts\Roboto-500.1d659482.woff
+Content Type: font/x-woff
+
+Uri: https://learning.alkafeel.edu.iq/fonts/Roboto-500.90d16760.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\fonts\Roboto-500.90d16760.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/fonts/Roboto-500.d0884059.ttf
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\fonts\Roboto-500.d0884059.ttf
+Content Type: application/octet-stream
+
+Uri: https://learning.alkafeel.edu.iq/fonts/Roboto-700.50d75e48.woff
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\fonts\Roboto-700.50d75e48.woff
+Content Type: font/x-woff
+
+Uri: https://learning.alkafeel.edu.iq/fonts/Roboto-700.b52fac2b.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\fonts\Roboto-700.b52fac2b.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/fonts/Roboto-700.ee7b96fa.ttf
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\fonts\Roboto-700.ee7b96fa.ttf
+Content Type: application/octet-stream
+
+Uri: https://learning.alkafeel.edu.iq/js/app.85e56b11.js
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\js\app.85e56b11.js
+Content Type: application/javascript
+
+Uri: https://learning.alkafeel.edu.iq/js/chunk-099b7a24.5033e1d5.js
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\js\chunk-099b7a24.5033e1d5.js
+Content Type: application/javascript
+
+Uri: https://learning.alkafeel.edu.iq/js/chunk-259ab270.b2c3accb.js
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\js\chunk-259ab270.b2c3accb.js
+Content Type: application/javascript
+
+Uri: https://learning.alkafeel.edu.iq/js/chunk-2d0492b2.c05ec1a3.js
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\js\chunk-2d0492b2.c05ec1a3.js
+Content Type: application/javascript
+
+Uri: https://learning.alkafeel.edu.iq/js/chunk-2d0c49ac.614b9f43.js
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\js\chunk-2d0c49ac.614b9f43.js
+Content Type: application/javascript
+
+Uri: https://learning.alkafeel.edu.iq/js/chunk-2d21a06f.07ca0c9d.js
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\js\chunk-2d21a06f.07ca0c9d.js
+Content Type: application/javascript
+
+Uri: https://learning.alkafeel.edu.iq/js/chunk-2f914ad4.64efa413.js
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\js\chunk-2f914ad4.64efa413.js
+Content Type: application/javascript
+
+Uri: https://learning.alkafeel.edu.iq/js/chunk-30f567fa.9dba3c74.js
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\js\chunk-30f567fa.9dba3c74.js
+Content Type: application/javascript
+
+Uri: https://learning.alkafeel.edu.iq/js/chunk-393cb9ed.c5327353.js
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\js\chunk-393cb9ed.c5327353.js
+Content Type: application/javascript
+
+Uri: https://learning.alkafeel.edu.iq/js/chunk-39a16338.6db7506c.js
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\js\chunk-39a16338.6db7506c.js
+Content Type: application/javascript
+
+Uri: https://learning.alkafeel.edu.iq/js/chunk-3dabe2c4.77fa7959.js
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\js\chunk-3dabe2c4.77fa7959.js
+Content Type: application/javascript
+
+Uri: https://learning.alkafeel.edu.iq/js/chunk-42e52a84.5cedea5a.js
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\js\chunk-42e52a84.5cedea5a.js
+Content Type: application/javascript
+
+Uri: https://learning.alkafeel.edu.iq/js/chunk-453f82e6.866b436b.js
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\js\chunk-453f82e6.866b436b.js
+Content Type: application/javascript
+
+Uri: https://learning.alkafeel.edu.iq/js/chunk-4691da7a.bd4791bf.js
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\js\chunk-4691da7a.bd4791bf.js
+Content Type: application/javascript
+
+Uri: https://learning.alkafeel.edu.iq/js/chunk-4db256e1.1473be6d.js
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\js\chunk-4db256e1.1473be6d.js
+Content Type: application/javascript
+
+Uri: https://learning.alkafeel.edu.iq/js/chunk-4e0d7782.f03e958f.js
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\js\chunk-4e0d7782.f03e958f.js
+Content Type: application/javascript
+
+Uri: https://learning.alkafeel.edu.iq/js/chunk-51f095e7.759296b9.js
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\js\chunk-51f095e7.759296b9.js
+Content Type: application/javascript
+
+Uri: https://learning.alkafeel.edu.iq/js/chunk-532c3097.7c4c8ad0.js
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\js\chunk-532c3097.7c4c8ad0.js
+Content Type: application/javascript
+
+Uri: https://learning.alkafeel.edu.iq/js/chunk-58ab4908.98f3af92.js
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\js\chunk-58ab4908.98f3af92.js
+Content Type: application/javascript
+
+Uri: https://learning.alkafeel.edu.iq/js/chunk-591afcb3.7af128e4.js
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\js\chunk-591afcb3.7af128e4.js
+Content Type: application/javascript
+
+Uri: https://learning.alkafeel.edu.iq/js/chunk-62e36ab5.bff28e17.js
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\js\chunk-62e36ab5.bff28e17.js
+Content Type: application/javascript
+
+Uri: https://learning.alkafeel.edu.iq/js/chunk-6509fcda.7c6bf39f.js
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\js\chunk-6509fcda.7c6bf39f.js
+Content Type: application/javascript
+
+Uri: https://learning.alkafeel.edu.iq/js/chunk-6aebc937.335c239d.js
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\js\chunk-6aebc937.335c239d.js
+Content Type: application/javascript
+
+Uri: https://learning.alkafeel.edu.iq/js/chunk-6e7f211a.6f4106bd.js
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\js\chunk-6e7f211a.6f4106bd.js
+Content Type: application/javascript
+
+Uri: https://learning.alkafeel.edu.iq/js/chunk-7158feb9.56efe146.js
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\js\chunk-7158feb9.56efe146.js
+Content Type: application/javascript
+
+Uri: https://learning.alkafeel.edu.iq/js/chunk-7c47d745.e3038134.js
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\js\chunk-7c47d745.e3038134.js
+Content Type: application/javascript
+
+Uri: https://learning.alkafeel.edu.iq/js/chunk-7ca14d59.08e426d9.js
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\js\chunk-7ca14d59.08e426d9.js
+Content Type: application/javascript
+
+Uri: https://learning.alkafeel.edu.iq/js/chunk-7df87975.a4afea02.js
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\js\chunk-7df87975.a4afea02.js
+Content Type: application/javascript
+
+Uri: https://learning.alkafeel.edu.iq/js/chunk-998132a2.44aa6969.js
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\js\chunk-998132a2.44aa6969.js
+Content Type: application/javascript
+
+Uri: https://learning.alkafeel.edu.iq/js/chunk-a93b07e6.f32dadfd.js
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\js\chunk-a93b07e6.f32dadfd.js
+Content Type: application/javascript
+
+Uri: https://learning.alkafeel.edu.iq/js/chunk-abf86e86.1017f3bb.js
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\js\chunk-abf86e86.1017f3bb.js
+Content Type: application/javascript
+
+Uri: https://learning.alkafeel.edu.iq/js/chunk-bd68a018.54a4a915.js
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\js\chunk-bd68a018.54a4a915.js
+Content Type: application/javascript
+
+Uri: https://learning.alkafeel.edu.iq/js/chunk-bfb64778.f4badeaa.js
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\js\chunk-bfb64778.f4badeaa.js
+Content Type: application/javascript
+
+Uri: https://learning.alkafeel.edu.iq/js/chunk-c26d6344.a002a67b.js
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\js\chunk-c26d6344.a002a67b.js
+Content Type: application/javascript
+
+Uri: https://learning.alkafeel.edu.iq/js/chunk-d094b178.e26153de.js
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\js\chunk-d094b178.e26153de.js
+Content Type: application/javascript
+
+Uri: https://learning.alkafeel.edu.iq/js/chunk-d1f9bf76.648809ac.js
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\js\chunk-d1f9bf76.648809ac.js
+Content Type: application/javascript
+
+Uri: https://learning.alkafeel.edu.iq/js/chunk-de5f1d0a.6e5263cf.js
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\js\chunk-de5f1d0a.6e5263cf.js
+Content Type: application/javascript
+
+Uri: https://learning.alkafeel.edu.iq/js/chunk-vendors.1d88c400.js
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\js\chunk-vendors.1d88c400.js
+Content Type: application/javascript
+
+Uri: https://learning.alkafeel.edu.iq/logo1.svg
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\logo1.svg
+Content Type: image/svg+xml
+
+Uri: https://learning.alkafeel.edu.iq/static/css/cairo.css
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\css\cairo.css
+Content Type: text/css
+
+Uri: https://learning.alkafeel.edu.iq/static/css/materialdesignicons.min.css
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\css\materialdesignicons.min.css
+Content Type: text/css
+
+Uri: https://learning.alkafeel.edu.iq/static/css/roboto.css
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\css\roboto.css
+Content Type: text/css
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/cairo/SLXgc1nY6HkvangtZmpQdkhzfH5lkSs2SgRjCAGMQ1z0hOA-a13iLD-H.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\cairo\SLXgc1nY6HkvangtZmpQdkhzfH5lkSs2SgRjCAGMQ1z0hOA-a13iLD-H.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/cairo/SLXgc1nY6HkvangtZmpQdkhzfH5lkSs2SgRjCAGMQ1z0hOA-a1biLD-H.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\cairo\SLXgc1nY6HkvangtZmpQdkhzfH5lkSs2SgRjCAGMQ1z0hOA-a1biLD-H.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/cairo/SLXgc1nY6HkvangtZmpQdkhzfH5lkSs2SgRjCAGMQ1z0hOA-a1PiLA.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\cairo\SLXgc1nY6HkvangtZmpQdkhzfH5lkSs2SgRjCAGMQ1z0hOA-a1PiLA.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/materialdesignicons-webfont.eot?
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\materialdesignicons-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/materialdesignicons-webfont.eot?v=7.3.67
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\materialdesignicons-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/materialdesignicons-webfont.ttf?v=7.3.67
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\materialdesignicons-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/materialdesignicons-webfont.woff2?v=7.3.67
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\materialdesignicons-webfont.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/materialdesignicons-webfont.woff?v=7.3.67
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\materialdesignicons-webfont.woff
+Content Type: font/x-woff
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/roboto/v30/KFOkCnqEu92Fr1MmgVxEIzIFKw.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\roboto\v30\KFOkCnqEu92Fr1MmgVxEIzIFKw.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/roboto/v30/KFOkCnqEu92Fr1MmgVxFIzIFKw.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\roboto\v30\KFOkCnqEu92Fr1MmgVxFIzIFKw.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/roboto/v30/KFOkCnqEu92Fr1MmgVxGIzIFKw.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\roboto\v30\KFOkCnqEu92Fr1MmgVxGIzIFKw.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/roboto/v30/KFOkCnqEu92Fr1MmgVxHIzIFKw.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\roboto\v30\KFOkCnqEu92Fr1MmgVxHIzIFKw.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzI.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzI.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/roboto/v30/KFOkCnqEu92Fr1MmgVxLIzIFKw.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\roboto\v30\KFOkCnqEu92Fr1MmgVxLIzIFKw.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/roboto/v30/KFOkCnqEu92Fr1MmgVxMIzIFKw.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\roboto\v30\KFOkCnqEu92Fr1MmgVxMIzIFKw.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/roboto/v30/KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\roboto\v30\KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc4.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc4.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/roboto/v30/KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\roboto\v30\KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/roboto/v30/KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\roboto\v30\KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/roboto/v30/KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\roboto\v30\KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/roboto/v30/KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\roboto\v30\KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/roboto/v30/KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\roboto\v30\KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/roboto/v30/KFOlCnqEu92Fr1MmSU5fABc4EsA.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\roboto\v30\KFOlCnqEu92Fr1MmSU5fABc4EsA.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc4.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc4.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/roboto/v30/KFOlCnqEu92Fr1MmSU5fBxc4EsA.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\roboto\v30\KFOlCnqEu92Fr1MmSU5fBxc4EsA.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/roboto/v30/KFOlCnqEu92Fr1MmSU5fCBc4EsA.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\roboto\v30\KFOlCnqEu92Fr1MmSU5fCBc4EsA.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/roboto/v30/KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\roboto\v30\KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/roboto/v30/KFOlCnqEu92Fr1MmSU5fCRc4EsA.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\roboto\v30\KFOlCnqEu92Fr1MmSU5fCRc4EsA.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/roboto/v30/KFOlCnqEu92Fr1MmSU5fCxc4EsA.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\roboto\v30\KFOlCnqEu92Fr1MmSU5fCxc4EsA.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/roboto/v30/KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\roboto\v30\KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc4.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc4.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/roboto/v30/KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\roboto\v30\KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/roboto/v30/KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\roboto\v30\KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/roboto/v30/KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\roboto\v30\KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/roboto/v30/KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\roboto\v30\KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/roboto/v30/KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\roboto\v30\KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/roboto/v30/KFOlCnqEu92Fr1MmYUtfABc4EsA.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\roboto\v30\KFOlCnqEu92Fr1MmYUtfABc4EsA.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc4.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc4.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/roboto/v30/KFOlCnqEu92Fr1MmYUtfBxc4EsA.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\roboto\v30\KFOlCnqEu92Fr1MmYUtfBxc4EsA.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/roboto/v30/KFOlCnqEu92Fr1MmYUtfCBc4EsA.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\roboto\v30\KFOlCnqEu92Fr1MmYUtfCBc4EsA.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/roboto/v30/KFOlCnqEu92Fr1MmYUtfChc4EsA.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\roboto\v30\KFOlCnqEu92Fr1MmYUtfChc4EsA.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/roboto/v30/KFOlCnqEu92Fr1MmYUtfCRc4EsA.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\roboto\v30\KFOlCnqEu92Fr1MmYUtfCRc4EsA.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/roboto/v30/KFOlCnqEu92Fr1MmYUtfCxc4EsA.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\roboto\v30\KFOlCnqEu92Fr1MmYUtfCxc4EsA.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/roboto/v30/KFOmCnqEu92Fr1Mu4mxK.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\roboto\v30\KFOmCnqEu92Fr1Mu4mxK.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/roboto/v30/KFOmCnqEu92Fr1Mu4WxKOzY.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\roboto\v30\KFOmCnqEu92Fr1Mu4WxKOzY.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/roboto/v30/KFOmCnqEu92Fr1Mu5mxKOzY.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\roboto\v30\KFOmCnqEu92Fr1Mu5mxKOzY.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/roboto/v30/KFOmCnqEu92Fr1Mu72xKOzY.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\roboto\v30\KFOmCnqEu92Fr1Mu72xKOzY.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/roboto/v30/KFOmCnqEu92Fr1Mu7GxKOzY.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\roboto\v30\KFOmCnqEu92Fr1Mu7GxKOzY.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/roboto/v30/KFOmCnqEu92Fr1Mu7mxKOzY.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\roboto\v30\KFOmCnqEu92Fr1Mu7mxKOzY.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/fonts/roboto/v30/KFOmCnqEu92Fr1Mu7WxKOzY.woff2
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\fonts\roboto\v30\KFOmCnqEu92Fr1Mu7WxKOzY.woff2
+Content Type: application/font-woff2
+
+Uri: https://learning.alkafeel.edu.iq/static/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\learning.alkafeel.edu.iq\static\js\jquery.min.js
+Content Type: application/javascript
+
